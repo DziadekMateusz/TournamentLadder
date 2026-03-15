@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentLadder", "TournamentLadder.csproj", "{6ACDCAAA-7AEA-4730-B5B9-D4D499B9403A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACDCAAA-7AEA-4730-B5B9-D4D499B9403A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACDCAAA-7AEA-4730-B5B9-D4D499B9403A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACDCAAA-7AEA-4730-B5B9-D4D499B9403A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACDCAAA-7AEA-4730-B5B9-D4D499B9403A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BABEA671-90C6-4554-85C8-73E80CDB93C5}
+	EndGlobalSection
+EndGlobal
